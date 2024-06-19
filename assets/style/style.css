@@ -1,0 +1,59 @@
+body {
+    font-family: 'Open Sans', Helvetica, sans-serif;
+}
+
+.fondo {
+    background: #E83E8C;
+}
+
+.logotipo {
+    width: 132px;
+    height: 53px;
+}
+
+.h1 {
+    font-size: 35px;
+    color: #707070;
+    font-weight: bold;
+    text-align: center;
+    padding: 30px;
+}
+
+.card {
+    padding: 0px;
+}
+
+.card-text {
+    font-size: 16px;
+}
+
+.list-group-item, .card-link, .card-body {
+    font-size: 12px;
+    text-decoration: none;
+}
+
+.medios-pago {
+    background: #17A2B8;
+    color: #ffffff;
+    padding: 57px 120px;
+    margin: 0px;
+}
+
+.pagos h2 {
+    font-size: 40px;
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+}
+
+.fa-brands {
+    font-size: 50px;
+    padding: 0px 0px 0px 15px;
+    margin: 0px;
+}
+
+.logotipo-footer {
+    width: 36px;
+    height: 67px;
+    margin: 58px auto;
+}
